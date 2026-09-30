@@ -1,0 +1,15 @@
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\bin\Debug\net9.0\Reserva.exe
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\bin\Debug\net9.0\Reserva.deps.json
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\bin\Debug\net9.0\Reserva.runtimeconfig.json
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\bin\Debug\net9.0\Reserva.dll
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\bin\Debug\net9.0\Reserva.pdb
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\obj\Debug\net9.0\Reserva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\obj\Debug\net9.0\Reserva.AssemblyInfoInputs.cache
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\obj\Debug\net9.0\Reserva.AssemblyInfo.cs
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\obj\Debug\net9.0\Reserva.csproj.CoreCompileInputs.cache
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\obj\Debug\net9.0\Reserva.dll
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\obj\Debug\net9.0\refint\Reserva.dll
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\obj\Debug\net9.0\Reserva.pdb
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\obj\Debug\net9.0\Reserva.genruntimeconfig.cache
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\obj\Debug\net9.0\ref\Reserva.dll
+C:\Users\sorte\source\repos\Trabalho do Lucas\Reserva\obj\Debug\net9.0\Reserva.csproj.Up2Date

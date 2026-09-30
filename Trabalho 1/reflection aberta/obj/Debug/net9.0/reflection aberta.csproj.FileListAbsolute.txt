@@ -1,0 +1,15 @@
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\bin\Debug\net9.0\reflection aberta.exe
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\bin\Debug\net9.0\reflection aberta.deps.json
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\bin\Debug\net9.0\reflection aberta.runtimeconfig.json
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\bin\Debug\net9.0\reflection aberta.dll
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\bin\Debug\net9.0\reflection aberta.pdb
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\obj\Debug\net9.0\reflection aberta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\obj\Debug\net9.0\reflection aberta.AssemblyInfoInputs.cache
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\obj\Debug\net9.0\reflection aberta.AssemblyInfo.cs
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\obj\Debug\net9.0\reflection aberta.csproj.CoreCompileInputs.cache
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\obj\Debug\net9.0\reflection aberta.dll
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\obj\Debug\net9.0\refint\reflection aberta.dll
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\obj\Debug\net9.0\reflection aberta.pdb
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\obj\Debug\net9.0\reflection aberta.genruntimeconfig.cache
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\obj\Debug\net9.0\ref\reflection aberta.dll
+C:\Users\sorte\source\repos\Trabalho do Lucas\reflection aberta\obj\Debug\net9.0\reflecti.D87C53A2.Up2Date
